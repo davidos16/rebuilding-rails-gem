@@ -22,7 +22,7 @@ Or install it yourself as:
     $ gem install rulers
 
 ## Usage
- In worls 
+ In work currently. 
 
 ## Development
 
