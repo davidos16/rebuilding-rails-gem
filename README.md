@@ -1,8 +1,9 @@
 # Rulers
+Created By: David S. www.davidos.us
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rulers`. To experiment with that code, run `bin/console` for an interactive prompt.
+-- 
 
-TODO: Delete this and the text above, and describe your gem
+This is a Rack Based Frame-Work in works which is a basic level copy of the popular framwork Ruby on Rails. 
 
 ## Installation
 
@@ -21,8 +22,7 @@ Or install it yourself as:
     $ gem install rulers
 
 ## Usage
-
-TODO: Write usage instructions here
+ In worls 
 
 ## Development
 
